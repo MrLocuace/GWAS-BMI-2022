@@ -1,3 +1,9 @@
+# If you use this script, please cite the original paper:
+# "New insights from GWAS on BMI-related growth traits in a longitudinal cohort of admixed children with Native American and European ancestry."
+# "Vicuña L, Barrientos E, Norambuena T, Alvares D, Gana JC, Leiva-Yamaguchi V, Meza C, Santos JL, Mericq V, Pereira A, Eyheramendy S.
+# iScience. 2023 Jan 31;26(2):106091. doi: 10.1016/j.isci.2023.106091. eCollection 2023 Feb 17.
+# PMID: 36844456
+
 
 library(graphics)
 library(dplyr)
